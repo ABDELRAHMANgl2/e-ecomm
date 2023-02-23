@@ -1,0 +1,20 @@
+{
+    "destinations": [
+        {
+            "description": "Men's Shoes",
+            "name": "Nike red",
+            "price": "$180.11",
+            "images": {
+                "png": "../Images/shoes1.png"
+            }
+        },
+        {
+            "description2": "women's Shoes",
+            "name2": "Nike pink",
+            "price2": "$880.131",
+            "images2": {
+                "png2": "../Images/shoes3.png"
+            }
+        }
+    ]
+}
